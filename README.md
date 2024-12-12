@@ -1,7 +1,7 @@
 Welcome to our Machine Learning Project.
 We are analyzing Hamilton County Voter Data. 
 This is our python script for running our models. 
-We also are including the Paper and Dataset deliverable.
+We also are including the paper and sample dataset csv file.
 
 Be aware that of time complexities!!
   Decision Tree: ~1 minute
